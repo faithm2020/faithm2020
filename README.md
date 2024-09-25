@@ -1,7 +1,7 @@
 ### Hi there, I'm Faith👋
 
-👩🏻‍💻 Data Analyst
-👩🏻‍🎓 Studied [Computer Science](https://www.hw.ac.uk/dubai/study/undergraduate/computer-science) at Heriot-Watt University Dubai, UAE
+👩🏻‍💻 Data Analyst </br>
+👩🏻‍🎓 Studied [Computer Science](https://www.hw.ac.uk/dubai/study/undergraduate/computer-science) at Heriot-Watt University Dubai, UAE </br>
 💭 Currently open to In-Person & Remote Opportunities
 <!--
 **faithm2020/faithm2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
